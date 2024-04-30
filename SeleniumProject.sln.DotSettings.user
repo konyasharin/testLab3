@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b5a1791e_002D0210_002D4ecc_002Dbba6_002D8ed98be902c6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::947DF852-3E8E-49C4-90DF-96C0457D2E64::.NETFramework,Version=v4.8::SeleniumProject.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c582c620_002D1fb8_002D48af_002D993e_002D0de6ac28250e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::947DF852-3E8E-49C4-90DF-96C0457D2E64::.NETFramework,Version=v4.8::SeleniumProject.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d93991a8_002D8b52_002D4fe0_002Daea8_002Db6e18db7f084/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestFilter" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::947DF852-3E8E-49C4-90DF-96C0457D2E64::.NETFramework,Version=v4.8::SeleniumProject.Tests.TestFilter&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::947DF852-3E8E-49C4-90DF-96C0457D2E64::.NETFramework,Version=v4.8::SeleniumProject.Tests.TestAddToBasket&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::947DF852-3E8E-49C4-90DF-96C0457D2E64::.NETFramework,Version=v4.8::SeleniumProject.Tests.TestSearch&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
