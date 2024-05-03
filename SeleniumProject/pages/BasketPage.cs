@@ -23,7 +23,7 @@ namespace SeleniumProject.pages
         {
             product.FindElement(By.ClassName("cart-item__delete-wrapper")).Click();
             WebDriverWait wait = new WebDriverWait(_driver, TimeSpan.FromSeconds(10));
-            wait.Until(ExpectedConditions.ElementIsVisible(By.ClassName("overlay")));
+            wait.Until(ExpectedConditions.InvisibilityOfElementLocated(By.ClassName("overlay")));
         }
     }
 }
